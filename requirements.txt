@@ -1,0 +1,8 @@
+streamlit
+pandas
+openai==0.28
+python-docx
+requests
+beautifulsoup4
+googlesearch-python
+openpyxl
