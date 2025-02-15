@@ -20,7 +20,7 @@ from urllib.parse import urlparse
 # ---------------------------
 # تنظیم API Key به صورت ثابت
 # ---------------------------
-OPENAI_API_KEY = "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" 
+OPENAI_API_KEY = "API Key" 
 if not OPENAI_API_KEY:
     st.error("کلید API تنظیم نشده است!")
     st.stop()
